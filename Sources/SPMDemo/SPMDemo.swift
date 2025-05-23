@@ -1,8 +1,8 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-open class PrintClass {
-    func printFunction() {
+public class PrintClass {
+    public func printFunction() {
         print("Class Pint")
     }
 }
