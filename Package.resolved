@@ -1,0 +1,15 @@
+{
+  "originHash" : "5bb89c0370f3d2b9a697cc66d285993f499d5aa6a1d3a0084e16958d0e803f4a",
+  "pins" : [
+    {
+      "identity" : "spmdeveloperinsider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/developerinsider/SPMDeveloperInsider",
+      "state" : {
+        "revision" : "2b211a44947e1ea8ef6054aaa17f43ccdc56477d",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
